@@ -1,0 +1,693 @@
+{
+  "projects1": [
+    {
+      "id": 1,
+      "title": "Pluto Consultancy",
+      "clientName": "HM Munfais",
+      "companyName": "Pluto Consultancy, UK",
+      "position": "CEO",
+      "description": "Pluto Consultancy is an accounting and consulting company based in Harrow, London, UK. The platform provides professional services in accounting, bookkeeping, tax advisory, and business consulting. I built a modern, responsive, SEO-optimized website designed to provide clients with a smooth browsing and service-inquiry experience.",
+      "previewClass": "pluto-image-01",
+      "tags": ["Laravel", "HTML+CSS", "MySQL"],
+      "anim": "anim-uni-in-up",
+      "Client": "Pluto Consultancy, UK",
+      "services": "Website Development",
+      "industries": "Consulting",
+      "date": "2025",
+      "link": "https://plutoconsultancy.com/",
+      "clientfeedBack": "Arshad delivered a professional, responsive, and modern website for Pluto Consultancy, UK. His technical expertise and attention to detail ensured a seamless development process.",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/pluto-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/pluto-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/pluto-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/pluto-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 2,
+      "title": "BIGBAZAAR.LK – Ecommerce Platform",
+      "clientName": "Suja Ahamed",
+      "companyName": "BIGBAZAAR.LK",
+      "position": "CEO",
+      "description": "BIGBAZAAR.LK is a large-scale e-commerce platform offering electronics, home appliances, fashion, beauty, and lifestyle products. I developed a fast, scalable, and secure e-commerce system featuring a modern UI, smooth checkout experience, and integrated admin tools for product and order management.",
+      "previewClass": "bigbazaar-image-1",
+      "tags": ["Ecommerce", "Laravel", "MSSQL"],
+      "anim": "anim-uni-in-up",
+      "Client": "BIGBAZAAR.LK",
+      "services": "Ecommerce Development",
+      "industries": "Ecommerce",
+      "date": "2025",
+      "link": "https://bigbazaar.lk/",
+      "clientfeedBack": "We are extremely satisfied with the website Arshad developed for BIGBAZAAR.LK. The platform is fast, secure, and user-friendly. Highly recommended.",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/bigbazaar-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/bigbazaar-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/bigbazaar-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/bigbazaar-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "UMAR-HASSAN.COM",
+      "clientName": "Umar Hassan",
+      "companyName": "UMAR-HASSAN.COM",
+      "position": "CEO",
+      "description": "A personal website portfolio for a marketing agency professional, designed with a modern layout, smooth animations, and a clean presentation of services and case studies.",
+      "previewClass": "umar-image-1",
+      "tags": ["HTML+CSS", "Tailwind CSS", "Portfolio"],
+      "anim": "anim-uni-in-up",
+      "Client": "Umar Hassan",
+      "services": "Portfolio Website Design & Development",
+      "industries": "Marketing",
+      "date": "2025",
+      "link": "https://umar-hassan.com/",
+      "clientfeedBack": "Arshad created a sleek, modern portfolio that perfectly represents my brand. Excellent work.",
+      "banner": "",
+      "images": [
+        { "id": 2, "src": "/img/projects/details/umar-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/umar-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/umar-details-image-04.jpg" },
+        { "id": 1, "src": "/img/projects/details/umar-details-image-01.jpg" }
+      ]
+    },
+
+    {
+      "id": 4,
+      "title": "TECHFUSIONSLAB.COM – Software Agency Website",
+      "clientName": "Suja Ahamed",
+      "companyName": "TechFusion Lab",
+      "position": "Director",
+      "description": "Company website for TechFusion Lab, showcasing services including web development, product development, UI/UX, and branding. Built using Angular and Tailwind, focused on fast performance and modern UX.",
+      "previewClass": "techfusionslab-image-1",
+      "tags": ["Angular", "Tailwind CSS", "Company Portfolio"],
+      "anim": "anim-uni-in-up",
+      "Client": "TechFusion Lab",
+      "services": "Company Website Design & Development",
+      "industries": "Software & IT",
+      "date": "2025",
+      "link": "https://techfusionslab.com/",
+      "clientfeedBack": "The website exceeded our expectations—clean, fast, and professional.",
+      "banner": "",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/techfusions-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/techfusions-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/techfusions-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/techfusions-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 5,
+      "title": "InvoiceAI – Smart Invoice Processing",
+      "clientName": "Arshad Ahamed",
+      "companyName": "InvoiceAI",
+      "position": "Founder",
+      "description": "A desktop AI-powered WinForms application using OCR and ML to automatically scan, read, and extract invoice details. Includes database sync, reporting, and accuracy improvement features.",
+      "previewClass": "InvoiceAI-image-01",
+      "tags": [".NET Framework", "WinForms", "MSSQL", "AI", "ML", "OCR"],
+      "anim": "anim-uni-in-up",
+      "Client": "Internal Project",
+      "services": "AI Desktop App Development",
+      "industries": "Finance Automation",
+      "date": "2024",
+      "link": "#",
+      "clientfeedBack": "Innovative solution with excellent accuracy and ease of use.",
+      "banner": "",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/invoiceai-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/invoiceai-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/invoiceai-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/invoiceai-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 6,
+      "title": "Book Inventory Management System (BIM)",
+      "clientName": "Arshad Ahamed",
+      "companyName": "Internal Project",
+      "position": "Developer",
+      "description": "A Windows desktop application built for managing book stock, suppliers, categories, and reports. Includes barcode support and role-based access.",
+      "previewClass": "bim-image-01",
+      "tags": [".NET Framework", "WinForms", "MSSQL"],
+      "anim": "anim-uni-in-up",
+      "Client": "Internal Project",
+      "services": "Desktop Application Development",
+      "industries": "Inventory Management",
+      "date": "2025",
+      "link": "https://github.com/arshadahamed/Book-Inventory-Management-System",
+      "clientfeedBack": "",
+      "banner": "",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/bim-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/bim-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/bim-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/bim-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 7,
+      "title": "SallySweet – Ecommerce Website",
+      "clientName": "Annonymous",
+      "companyName": "SallySweet Online Store",
+      "position": "Founder",
+      "description": "An online store built with Vue.js, Tailwind, Bagisto, and Laravel. Designed with a modern UI, category filtering, secure checkout, and responsive product layouts.",
+      "previewClass": "Sally-image-01",
+      "tags": ["Vue.js", "Tailwind CSS", "Laravel", "MySQL", "Bagisto"],
+      "anim": "anim-uni-in-up",
+      "Client": "SallySweet",
+      "services": "Ecommerce Website Development",
+      "industries": "Retail Ecommerce",
+      "date": "2025",
+      "link": "#",
+      "clientfeedBack": "A beautiful ecommerce platform with smooth performance.",
+      "banner": "",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/sally-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/sally-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/sally-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/sally-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 8,
+      "title": "APOS - POS System",
+      "clientName": "Arshad Ahamed",
+      "companyName": "Internal Project",
+      "position": "Developer",
+      "description": "A Point of Sale desktop application for retail billing, inventory tracking, cashier management, and daily reporting. Developed as a fast-performing WinForms application.",
+      "previewClass": "apos-image-01",
+      "tags": [".NET Framework", "WinForms", "MSSQL"],
+      "anim": "anim-uni-in-up",
+      "Client": "Internal Project",
+      "services": "POS System Development",
+      "industries": "Retail & Supermarket",
+      "date": "2025",
+      "link": "#",
+      "clientfeedBack": "",
+      "banner": "",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/apos-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/apos-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/apos-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/apos-details-image-04.jpg" }
+      ]
+    },
+
+    {
+      "id": 9,
+      "title": "Library Management System (LMS)",
+      "clientName": "Riswan Ahamed",
+      "companyName": "Azend Tech, India",
+      "position": "Senior Developer",
+      "description": "A WinForms-based library Management system enabling book registration, member management, borrowing/return processes, and fine tracking.",
+      "previewClass": "lms-image-01",
+      "tags": [".NET Framework", "WinForms", "MSSQL"],
+      "anim": "anim-uni-in-up",
+      "Client": "Internal Project",
+      "services": "Desktop Application Development",
+      "industries": "Education & Library",
+      "date": "2025",
+      "link": "#",
+      "clientfeedBack": "Thanks you for developing an efficient library management system that meets our needs.",
+      "banner": "",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/lms-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/lms-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/lms-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/lms-details-image-04.jpg" }
+      ]
+    }
+  ]
+  ,
+
+  "projects2": [
+    {
+      "id": 7,
+      "title": "AI Experiments",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-01.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-01.webp"
+      },
+      "tags": ["Midjourney", "AI", "Editorial"],
+      "justify": "justify-end"
+    },
+    {
+      "id": 8,
+      "title": "VR vision project",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-07.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-07.webp"
+      },
+      "tags": ["Development", "Web", "Editorial"],
+      "justify": "justify-end"
+    },
+    {
+      "id": 9,
+      "title": "NFT project branding",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-03.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-03.webp"
+      },
+      "tags": ["Branding", "Web", "Packaging"],
+      "justify": "justify-end"
+    },
+    {
+      "id": 10,
+      "title": "Studio template",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-04.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-04.webp"
+      },
+      "tags": ["UI/UX", "Development"],
+      "justify": "justify-end"
+    }
+  ],
+  "projects3": [
+    {
+      "id": 11,
+      "title": "BIGBAZAAR.LK",
+      "subtitle": "Website",
+      "preview": {
+        "hover": "/img/works/preview/600x730_prv-06.webp",
+        "full": "/img/works/preview/1200x800_prv-06.webp"
+      },
+      "tags": [
+        {
+          "name": "Web Develeopment",
+          "icon": true
+        },
+        {
+          "name": "Laravel",
+          "icon": true
+        },
+        {
+          "name": "MSSQL",
+          "icon": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "UMAR-HASSAN.COM",
+      "subtitle": "Website",
+      "preview": {
+        "hover": "/img/works/preview/600x730_prv-07.webp",
+        "full": "/img/works/preview/1200x800_prv-07.webp"
+      },
+      "tags": [
+        {
+          "name": "Portfolio",
+          "icon": true
+        },
+        {
+          "name": "HTML+CSS",
+          "icon": true
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "TECHFUSIONSLAB.COM",
+      "subtitle": "Website",
+      "preview": {
+        "hover": "/img/works/preview/600x730_prv-05.webp",
+        "full": "/img/works/preview/1200x800_prv-05.webp"
+      },
+      "tags": [
+        {
+          "name": "Company Prtfolio",
+          "icon": true
+        },
+        {
+          "name": "Angular",
+          "icon": true
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "LIBRARY MANAGEMENT SYSTEM",
+      "subtitle": "Desktop App",
+      "preview": {
+        "hover": "/img/works/preview/600x730_prv-03.webp",
+        "full": "/img/works/preview/1200x800_prv-03.webp"
+      },
+      "tags": [
+        {
+          "name": ".NETFRAMEWORK",
+          "icon": true
+        },
+        {
+          "name": "WINFORM",
+          "icon": true
+        },
+        {
+          "name": "MSSQL",
+          "icon": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "BOOK INVENTORY MANAGEMENT",
+      "subtitle": "Desktop App",
+      "preview": {
+        "hover": "/img/works/preview/600x730_prv-04.webp",
+        "full": "/img/works/preview/1200x800_prv-04.webp"
+      },
+      "tags": [
+        {
+          "name": ".NETFRAMEWORK",
+          "icon": true
+        },
+        {
+          "name": "WINFORM",
+          "icon": true
+        },
+        {
+          "name": "MSSQL",
+          "icon": false
+        }
+      ]
+    }
+  ],
+  "projects4": [
+    {
+      "id": 15,
+      "title": "Studio template",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-04.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-04.webp"
+      },
+      "tags": ["Brand", "Illustrations", "Web"],
+      "justify": "justify-between"
+    },
+    {
+      "id": 16,
+      "title": "AI Experiments",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-01.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-01.webp"
+      },
+      "tags": ["Sora", "AI", "Editorial"],
+      "justify": "justify-between"
+    },
+    {
+      "id": 17,
+      "title": "Mobile app design",
+      "images": {
+        "mobile": "/img/works/preview/1080x1920_prv-05.webp",
+        "desktop": "/img/works/preview/1920x1080_prv-05.webp"
+      },
+      "tags": ["Design", "UI/UX", "Android"],
+      "justify": "justify-between"
+    }
+  ],
+  "projects5": [
+    {
+      "id": 18,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-01",
+      "wrapperClass": "mxd-hero-02-image__portrait portrait-01",
+      "innerType": "type-01",
+      "src": "/img/hero/07_hero-img.webp",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": 19,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-01",
+      "wrapperClass": "mxd-hero-02-image__landscape landscape-01",
+      "innerType": "type-03",
+      "src": "/img/hero/08_hero-img.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 20,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-01",
+      "wrapperClass": "mxd-hero-02-image__portrait portrait-02",
+      "innerType": "type-01",
+      "src": "/img/hero/09_hero-img.webp",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": 21,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-02",
+      "wrapperClass": "mxd-hero-02-image__landscape landscape-02",
+      "innerType": "type-03",
+      "src": "/img/hero/10_hero-img.webp",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 22,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-02",
+      "wrapperClass": "mxd-hero-02-image__portrait portrait-xl portrait-03",
+      "innerType": "type-02",
+      "src": "/img/hero/11_hero-img.webp",
+      "width": 1000,
+      "height": 1316
+    },
+    {
+      "id": 23,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-03",
+      "wrapperClass": "mxd-hero-02-image__portrait portrait-04",
+      "innerType": "type-01",
+      "src": "/img/hero/13_hero-img.webp",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": 24,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-03",
+      "wrapperClass": "mxd-hero-02-image__landscape landscape-03",
+      "innerType": "type-03",
+      "src": "/img/hero/12_hero-img.webp",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 25,
+      "row": "mxd-hero-02-images__row mxd-hero-02-images__row-03",
+      "wrapperClass": "mxd-hero-02-image__portrait portrait-05",
+      "innerType": "type-01",
+      "src": "/img/hero/14_hero-img.webp",
+      "width": 800,
+      "height": 1200
+    }
+  ],
+  "marquee": [
+    {
+      "id": 26,
+      "src": "/img/marquee/1200x1000_marquee-01.png",
+      "title": "Software Development"
+    },
+    {
+      "id": 27,
+      "src": "/img/marquee/1200x1000_marquee-02.png"
+    },
+    {
+      "id": 28,
+      "src": "/img/marquee/1200x1000_marquee-03.png",
+      "title": "Graphic Design"
+    },
+    {
+      "id": 29,
+      "src": "/img/marquee/1200x1000_marquee-04.png"
+    }
+  ],
+  "projects7": [
+    {
+      "id": 30,
+      "src": "/img/marquee/1200x1000_marquee-05.webp",
+      "title": "Inspiring ideas"
+    },
+    {
+      "id": 31,
+      "src": "/img/marquee/1200x1000_marquee-06.webp"
+    },
+    {
+      "id": 32,
+      "src": "/img/marquee/1200x1000_marquee-07.webp",
+      "title": "Creative minds"
+    },
+    {
+      "id": 33,
+      "src": "/img/marquee/1200x1000_marquee-08.webp"
+    }
+  ],
+  "projects8": [
+    {
+      "id": 34,
+      "thumb": "/img/works/preview/600x730_prv-01.webp",
+      "image": "/img/works/preview/1200x800_prv-01.webp",
+      "title": "E-commerce website",
+      "tags": ["UI/UX design", "Development"],
+      "date": "2025"
+    },
+    {
+      "id": 35,
+      "thumb": "/img/works/preview/600x730_prv-02.webp",
+      "image": "/img/works/preview/1200x800_prv-02.webp",
+      "title": "NFT project branding",
+      "tags": ["Brand identity", "Style guides"],
+      "date": "2025"
+    },
+    {
+      "id": 36,
+      "thumb": "/img/works/preview/600x730_prv-03.webp",
+      "image": "/img/works/preview/1200x800_prv-03.webp",
+      "title": "VR vision project",
+      "tags": ["Midjourney", "AI model"],
+      "date": "2024"
+    },
+    {
+      "id": 37,
+      "thumb": "/img/works/preview/1200x800_prv-04.webp",
+      "image": "/img/works/preview/1200x800_prv-04.webp",
+      "title": "Illustrations set",
+      "tags": ["Illustrations", "Design"],
+      "date": "2024"
+    },
+    {
+      "id": 38,
+      "thumb": "/img/works/preview/600x730_prv-05.webp",
+      "image": "/img/works/preview/1200x800_prv-05.webp",
+      "title": "Blockchain app design",
+      "tags": ["IU/UX design", "Development"],
+      "date": "2024"
+    },
+    {
+      "id": 39,
+      "thumb": "/img/works/preview/600x730_prv-06.webp",
+      "image": "/img/works/preview/1200x800_prv-06.webp",
+      "title": "Rayo studio portfolio",
+      "tags": ["IU/UX design", "Development"],
+      "date": "2024"
+    }
+  ],
+  "projects9": [
+    {
+      "id": 1,
+      "wrapperClass": "mxd-services-stack__inner showcase-inner bg-base-opp",
+      "title": "Digital products",
+      "titleClass": "opposite",
+      "number": "/01",
+      "numberClass": "t-opp-muted",
+      "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "infoClass": "t-opposite",
+      "works": [
+        {
+          "id": 40,
+          "src": "/img/works/preview/800x400_prv-01.webp",
+          "tags": ["Sora", "AI", "Editorial"]
+        },
+        {
+          "id": 41,
+          "src": "/img/works/preview/800x400_prv-02.webp",
+          "tags": ["Frontend", "Interactions", "Web"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "wrapperClass": "mxd-services-stack__inner showcase-inner bg-accent",
+      "title": "Corporate websites",
+      "titleClass": "opposite",
+      "number": "/02",
+      "numberClass": "t-opp-brigth",
+      "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "infoClass": "t-opposite",
+      "works": [
+        {
+          "id": 42,
+          "src": "/img/works/preview/800x400_prv-03.webp",
+          "tags": ["Frontend", "Interactions", "Web"]
+        },
+        {
+          "id": 43,
+          "src": "/img/works/preview/800x400_prv-04.webp",
+          "tags": ["Brand", "Illustrations", "Web"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "wrapperClass": "mxd-services-stack__inner radius-dark showcase-inner bg-base-tint",
+      "title": "eCommerce",
+      "titleClass": "",
+      "number": "/03",
+      "numberClass": "t-muted-extra",
+      "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "infoClass": "",
+      "works": [
+        {
+          "id": 44,
+          "src": "/img/works/preview/800x400_prv-05.webp",
+          "tags": ["Design", "UI/UX", "Android"]
+        },
+        {
+          "id": 45,
+          "src": "/img/works/preview/800x400_prv-06.webp",
+          "tags": ["IU/UX design", "Development"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "wrapperClass": "mxd-services-stack__inner showcase-inner bg-base-opp",
+      "title": "Brand identity",
+      "titleClass": "opposite",
+      "number": "/04",
+      "numberClass": "t-opp-muted",
+      "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "infoClass": "t-opposite",
+      "works": [
+        {
+          "id": 46,
+          "src": "/img/works/preview/800x400_prv-07.webp",
+          "tags": ["Brand", "Style guides"]
+        },
+        {
+          "id": 47,
+          "src": "/img/works/preview/800x400_prv-08.webp",
+          "tags": ["Interactions", "Web", "Style guides"]
+        }
+      ]
+    }
+  ],
+  "projects10": [
+    {
+      "id": 48,
+      "image": "/img/works/preview/1920x1080_prv-04.webp",
+      "tags": ["Brand", "Illustrations", "Web"],
+      "title": "Studio template"
+    },
+    {
+      "id": 49,
+      "image": "/img/works/preview/1920x1080_prv-01.webp",
+      "tags": ["Sora", "AI", "Editorial"],
+      "title": "AI Experiments"
+    },
+    {
+      "id": 50,
+      "image": "/img/works/preview/1920x1080_prv-05.webp",
+      "tags": ["Design", "UI/UX", "Android"],
+      "title": "Mobile app design"
+    }
+  ]
+}

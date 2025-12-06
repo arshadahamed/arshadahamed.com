@@ -1,0 +1,32 @@
+[
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-01.jpg",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "authorName": "Suja Ahamed",
+    "authorPosition": "CEO & Founder",
+    "authorCompany": "BigBazaar.lk",
+    "authorCompanyUrl": "www.bigbazaar.lk",
+    "rating": 5,
+    "text": "Working with Arshad has been an absolute game-changer for our eCommerce platform. From the very beginning, he demonstrated deep technical expertise, creativity, and a strong understanding of our business needs. He transformed our vision for BigBazaar.lk into a high-performing, user-friendly website that has significantly improved our online presence. His attention to detail, problem-solving skills, and commitment to quality are truly commendable. I highly recommend him to anyone looking for a reliable and skilled developer.",
+    "projectPage": "#",
+    "testimonialImage": "/img/testimonials/1400x1200_t01.jpg",
+    "testimonialImageWidth": 1433,
+    "testimonialImageHeight": 1200
+  },
+  {
+    "authorPhoto": "/img/avatars/author1.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "authorName": "HM Munfais",
+    "authorPosition": "Director",
+    "authorCompany": "Pluto Consultancy, UK",
+    "authorCompanyUrl": "#",
+    "rating": 5,
+    "text": "Arshad delivered a professional, responsive, and modern website for Pluto Consultancy, UK. His technical expertise, clear communication, and attention to detail ensured a smooth development and deployment process. We highly recommend him for reliable and high-quality web solutions.",
+    "projectPage": "#",
+    "testimonialImage": "/img/testimonials/1400x1200_t02.jpg",
+    "testimonialImageWidth": 1433,
+    "testimonialImageHeight": 1200
+  }
+]

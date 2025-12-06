@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Brand Identity Design",
+    "image": "/img/illustrations/600x730_cpb-02.png",
+    "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints.",
+    "tags": [
+      "Logo design",
+      "Rebranding",
+      "Business cards",
+      "Stationery",
+      "Letterheads",
+      "Brochures",
+      "Flyers"
+    ]
+  },
+  {
+    "title": "Website Development",
+    "image": "/img/illustrations/600x730_cpb-01.png",
+    "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+    "tags": [
+      "Frontend",
+      "Backend",
+      "E-Commerce",
+      "Support",
+      "Portfolio pages",
+      "Landing pages"
+    ]
+  },
+  {
+    "title": "Social Media & Digital Marketing Poster Design",
+    "image": "/img/illustrations/600x730_cpb-03.png",
+    "desc": "We create eye-catching digital marketing materials tailored for social media platforms. Our designs help boost your online presence and engage your audience effectively.",
+    "tags": [
+      "Social Media posts",
+      "Digital ads",
+      "Banners",
+      "Email templates",
+      "Infographics",
+      "Promotional materials",
+      "SEO"
+    
+    ]
+  },
+  {
+    "title": "Graphic Designing & Creative Media",
+    "image": "/img/illustrations/600x730_cpb-04.png",
+    "desc": "Our graphic design services cover a wide range of creative media, from print to digital. We deliver visually compelling designs that communicate your message effectively.",
+    "tags": [
+      "Print design",
+      "Packaging",
+      "Illustrations",
+      "Video editing Like Logo intros"
+    ]
+  }
+]

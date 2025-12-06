@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Brand Identity Design",
+    "num": "/ 01",
+    "hoverImage": "/img/illustrations/600x730_cpb-02.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-04.jpg"
+  },
+  {
+    "title": "Website Development",
+    "num": "/ 02",
+    "hoverImage": "/img/illustrations/600x730_cpb-01.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-03.jpg"
+  },
+  {
+    "title": "Social Media & Digital Marketing Poster Design",
+    "num": "/ 03",
+    "hoverImage": "/img/illustrations/600x730_cpb-03.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-02.jpg"
+  },
+  {
+    "title": "Graphic Designing & Creative Media",
+    "num": "/ 04",
+    "hoverImage": "/img/illustrations/600x730_cpb-04.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-01.jpg"
+  }
+]

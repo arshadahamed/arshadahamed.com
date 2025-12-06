@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Pluto",
+    "work": "Branding",
+    "image": {
+      "src": "/img/designs/800x920_branding-01.jpg",
+      "alt": "Pluto Consultancy",
+      "width": 800,
+      "height": 920
+    },
+    "socials": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/"
+      }
+    ],
+    "layout": {
+      "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item no-margin-desktop padding-bottom-desktop animate-card-3"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rhino",
+    "work": "Packing Design",
+    "image": {
+      "src": "/img/designs/800x920_branding-02.jpg",
+      "alt": "Siyams rice Mill",
+      "width": 800,
+      "height": 920
+    },
+    "socials": [
+      {
+        "name": "Facebook",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/"
+      }
+    ],
+    "layout": {
+      "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item no-margin-desktop padding-bottom-mobile padding-bottom-desktop animate-card-3"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bigbazaar",
+    "work": "Social Media Post Dxdesigns",
+    "image": {
+      "src": "/img/designs/800x920_branding-03.jpg",
+      "alt": "Bigbazaar",
+      "width": 800,
+      "height": 920
+    },
+    "socials": [
+       {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/"
+      }
+    ],
+    "layout": {
+      "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item animate-card-3"
+    }
+  },
+  {
+    "id": 4,
+    "name": "eGrow.lk",
+    "work": "Social Media Post",
+    "image": {
+      "src": "/img/designs/800x920_branding-04.jpg",
+      "alt": "eGrow.lk",
+      "width": 800,
+      "height": 920
+    },
+    "socials": [
+       {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/"
+      }
+    ],
+    "layout": {
+      "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item padding-bottom-mobile animate-card-3"
+    }
+  }
+]

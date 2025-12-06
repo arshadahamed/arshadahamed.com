@@ -1,0 +1,14 @@
+[
+  { "name": "Angular", "icon": "/img/tech/icon-angular.svg" },
+  { "name": "Vue.js", "icon": "/img/tech/icon-vuejs.svg" },
+  { "name": "laravel", "icon": "/img/tech/icon-laravel.svg" },
+   { "name": ".Net ", "icon": "/img/tech/icon-dotnet.svg" },
+  { "name": "Photoshop", "icon": "/img/tech/icon-photoshop.svg" },
+  { "name": "Illustrator", "icon": "/img/tech/icon-illustrator.svg" },
+  { "name": "Tailwind CSS", "icon": "/img/tech/icon-tailwindcss.svg" },
+  { "name": "MySQL", "icon": "/img/tech/icon-mysql.svg" },
+  { "name": "MongoDB", "icon": "/img/tech/icon-mongodb.svg" },
+  { "name": "Github", "icon": "/img/tech/icon-github.svg" },
+  { "name": "AutoCAD", "icon": "/img/tech/icon-autocad.svg" },
+  { "name": "MsOffice", "icon": "/img/tech/icon-msoffice.svg" }
+]
