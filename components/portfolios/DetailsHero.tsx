@@ -1,4 +1,5 @@
 
+import { ReactElement, JSXElementConstructor, ReactNode, ReactPortal, Key } from "react";
 import AnimatedButton from "../animation/AnimatedButton";
 
 
@@ -89,7 +90,7 @@ export default function DetailsHero({ project }: { project: any }) {
               {/* Tags */}
               <div className="col-12 col-xl-4 mxd-grid-item no-margin">
                 <div className="inner-headline__tags loading__fade">
-                  {project.tags.map((tag, index) => (
+                  {project.tags.map((tag: string | number | bigint | boolean | ReactElement<unknown, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<string | number | bigint | boolean | ReactPortal | ReactElement<unknown, string | JSXElementConstructor<any>> | Iterable<ReactNode> | null | undefined> | null | undefined, index: Key | null | undefined) => (
                     <span key={index} className="tag tag-default tag-outline-medium">
                       {tag}
                     </span>

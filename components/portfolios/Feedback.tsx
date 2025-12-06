@@ -1,6 +1,6 @@
 import RevealText from "../animation/RevealText";
 
-export default function Feedback({ project }) {
+export default function Feedback({  project }: { project: any }) {
   return (
     <div className="mxd-project__block">
       <div className="container-fluid px-0">

@@ -1,4 +1,3 @@
-import Blogs from "@/components/common/Blogs";
 import Cta from "@/components/common/Cta";
 import Footer2 from "@/components/footers/Footer2";
 import Faqs from "@/components/other-pages/Faqs";
@@ -17,7 +16,6 @@ export default function FaqsPage() {
         className="mxd-page-content inner-page-content"
       >
         <Faqs />
-        <Blogs />
         <Cta />
       </main>
       <Footer2 />

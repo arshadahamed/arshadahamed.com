@@ -1,4 +1,3 @@
-import Blogs from "@/components/common/Blogs";
 import Cta from "@/components/common/Cta";
 import Footer2 from "@/components/footers/Footer2";
 import About from "@/components/other-pages/team/About";
@@ -23,7 +22,6 @@ export default function TeamPage() {
         <MarqueeSlider />
         <Teammembers />
         <About />
-        <Blogs />
         <Cta />
       </main>
       <Footer2 />

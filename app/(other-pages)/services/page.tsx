@@ -1,4 +1,3 @@
-import Blogs from "@/components/common/Blogs";
 import Cta from "@/components/common/Cta";
 import Footer2 from "@/components/footers/Footer2";
 import Hero from "@/components/other-pages/services/Hero";

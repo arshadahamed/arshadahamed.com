@@ -1,4 +1,3 @@
-import Blogs from "@/components/common/Blogs";
 import Cta from "@/components/common/Cta";
 import Facts from "@/components/common/Facts";
 import Footer2 from "@/components/footers/Footer2";
@@ -40,7 +39,6 @@ export default function HomeMainPage() {
         <TechStack />
         <Education />
         <ParallaxDivider3 />
-        <Blogs />
         <Cta />
       </main>
       <Footer2 text="Arshad Ahamed" />

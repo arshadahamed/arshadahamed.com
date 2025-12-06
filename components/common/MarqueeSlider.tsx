@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import VelocityMarquee from "@/components/animation/VelocityMarquee";
-import { projects6, projects7 } from "@/data/projects.json";
+import { marquee, projects7 } from "@/data/projects.json";
 import React from "react";
 export default function MarqueeSlider() {
   return (
@@ -13,7 +13,7 @@ export default function MarqueeSlider() {
           {/* top line */}
           <VelocityMarquee direction="left" className="marquee marquee--gsap">
             {/* item */}
-            {projects6.map((item, idx) => (
+            {marquee.map((item, idx) => (
               <React.Fragment key={idx}>
                 <div className="marquee__item image">
                   <Link className="marquee__link" href={`/project-details`}>
