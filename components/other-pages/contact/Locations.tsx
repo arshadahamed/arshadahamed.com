@@ -34,7 +34,7 @@ export default function Locations() {
                               <li className="anim-uni-in-up">
                                 <a
                                   className="anim-uni-in-up"
-                                  href="https://goo.gl/maps/nWXKpGaDPuyH6gxRA"
+                                  href="https://maps.app.goo.gl/YtdbVMnPMxWVBk1s8?g_st=ipc"
                                   target="_blank"
                                 >
                                   69,Kurunegala Road,
