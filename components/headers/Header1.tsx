@@ -98,7 +98,7 @@ export default function Header1() {
           <AnimatedButton
             text="Say Hello"
             className="btn btn-anim btn-default btn-mobile-icon btn-outline slide-right"
-            href="https://egrow.lk"
+            href="/contact"
             target="_blank"
           >
             <i className="ph-bold ph-hand" />
