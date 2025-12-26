@@ -12,6 +12,20 @@
     "institutionUrl": "#",
     "desc": "At American College of Higher Education, I completed my HND in Artificial Intelligence.",
     "year": "2019 - 2023"
+   },
+  
+    "title": "C50 - Computer Science",
+    "institution": "Harward University ",
+    "institutionUrl": "#",
+    "desc": "Completed courses via Online from David J Melon",
+    "year": "2020-2021"
+  },
+  {
+    "title": "IELTS English Training",
+    "institution": "British Council , Colombo",
+    "institutionUrl": "#",
+    "desc": "IELTS Preperation Course ",
+    "year": "2019"
   },
   {
     "title": "Agriculture Sales Technician Programme",
@@ -21,18 +35,32 @@
     "year": "2016 - 2017"
   },
   {
+    "title": "Pearson - HND In Business Management ",
+    "institution": "BCAS Colombo Campus",
+    "institutionUrl": "#",
+    "desc": "Completed HND in Business Management program ",
+    "year": "2016 - 2018"
+  },
+  {
     "title": "DIPLOMA IN CAD AND BS",
     "institution": "Pearson, UK",
     "institutionUrl": "#",
     "desc": "Completed a diploma course on Computer Aided Design and Building Services Engineering.And Batch Topper of 2015.",
     "year": "2014 - 2015"
-  }
-  ,
+  },
   {
     "title": "GCE Advanced Level",
     "institution": "Galgamuwa Central College",
     "institutionUrl": "#",
     "desc": "Commerce Stream",
     "year": "2011 - 2013"
+  },
+  {
+    "title": "Edexcel / Pearson - Access Programe",
+    "institution": "BCAS Kandy Campus",
+    "institutionUrl": "#",
+    "desc": "English and IT",
+    "year": "2010"
   }
+  
 ]
