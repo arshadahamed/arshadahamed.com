@@ -221,6 +221,29 @@
         { "id": 3, "src": "/img/projects/details/lms-details-image-03.jpg" },
         { "id": 4, "src": "/img/projects/details/lms-details-image-04.jpg" }
       ]
+    },
+    {
+      "id": 10,
+      "title": "MKC - DISTRUBUTION SYSTEM",
+      "clientName": "MZM FAIZ",
+      "companyName": "MKC TRADE CENTER, Sri Lanka",
+      "position": "Director",
+      "description": "MKC is a distribution company based in Sri Lanka. The platform provides professional services in distribution, logistics, and supply chain management of Agrochemical and fertilizer PProducts. I built a modern, responsive, SEO-optimized website designed to provide clients with a smooth browsing and service-inquiry experience.",
+      "previewClass": "mkc-image-01",
+      "tags": ["ReactNode.js & Express.js", "Vanilla Stack", "SQLite"],
+      "anim": "anim-uni-in-up",
+      "Client": "MKC TRADE CENTER, Sri Lanka",
+      "services": "Website Development",
+      "industries": "Distribution & Logistics",
+      "date": "2026",
+      "link": "",
+      "clientfeedBack": "Arshad delivered a professional, responsive, and modern website for MKC DISTRUBUTION SYSTEM. His technical expertise and attention to detail ensured a seamless development process.",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/mkc-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/mkc-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/mkc-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/mkc-details-image-04.jpg" }
+      ]
     }
   ]
   ,
