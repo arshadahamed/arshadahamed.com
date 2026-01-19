@@ -257,18 +257,20 @@ export default function Footer2({ text = "Arshad Ahamed" }: { text?: string }) {
             </div>
             {/* links */}
             <div className="footer-blocks__links anim-uni-in-up">
-              <p className="t-xsmall t-muted">
-                <a
-                  className="no-effect"
-                  href="https://egrow.lk"
-                  target="_blank"
-                >
-                  ArshaD
-                </a>
-                <i className="ph-bold ph-copyright" />
-                {new Date().getFullYear()}
-              </p>
-            </div>
+  <p className="t-xsmall t-muted">
+    &copy; {new Date().getFullYear()} 
+    {" "}
+    <a
+      className="no-effect"
+      href="https://egrow.lk"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Arshad Ahamed
+    </a>
+  </p>
+</div>
+
           </div>
         </div>
       </div>
