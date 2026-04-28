@@ -244,6 +244,29 @@
         { "id": 3, "src": "/img/projects/details/mkc-details-image-03.jpg" },
         { "id": 4, "src": "/img/projects/details/mkc-details-image-04.jpg" }
       ]
+    },
+    {
+      "id": 10,
+      "title": "EDF GALGAMUWA - CHARITY MANAGEMENT SYSTEM",
+      "clientName": "EDF",
+      "companyName": "EDUCATION DEVELOPEMENT FOUNDATION, Sri Lanka",
+      "position": "Charity",
+      "description": he Education Development Foundation (EDF) is a Muslim charitable organization that has been serving Galgamuwa, Sri Lanka, since 2016. What began as a small initiative by six founding members has grown into a vital pillar of the community. Today, EDF focuses on four key pillars of development: Education, Healthcare, Quality of Life, and Job Creation, ensuring a brighter and more self-sufficient future for all local residents.",
+      "previewClass": "edf-image-01",
+      "tags": ["ReactNode.js & Express.js", "Vanilla Stack", "SQLite"],
+      "anim": "anim-uni-in-up",
+      "Client": "EDUCATION DEVELOPEMENT FOUNDATION, Sri Lanka",
+      "services": "Website Development",
+      "industries": "CHARITY MANAGEMENT SYSTEM",
+      "date": "2026",
+      "link": "",
+      "clientfeedBack": "Arshad developed a comprehensive, high-performance management system for EDF that has transformed our operations. Beyond a modern digital presence, he engineered custom modules for course enrollments, program tracking, and subscription management. Most impressively, he built a dedicated Ramadan distribution system that streamlined our charitable outreach. His ability to translate complex community needs into a seamless, fully functional software solution is exceptional.",
+      "images": [
+        { "id": 1, "src": "/img/projects/details/edf-details-image-01.jpg" },
+        { "id": 2, "src": "/img/projects/details/edf-details-image-02.jpg" },
+        { "id": 3, "src": "/img/projects/details/edf-details-image-03.jpg" },
+        { "id": 4, "src": "/img/projects/details/edf-details-image-04.jpg" }
+      ]
     }
   ]
   ,
