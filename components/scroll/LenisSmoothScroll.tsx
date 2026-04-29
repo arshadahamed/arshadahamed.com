@@ -2,76 +2,35 @@
 import ReactLenis, { useLenis } from "lenis/react";
 import { useEffect } from "react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { usePathname } from "next/navigation";
 
 export default function LenisSmoothScroll() {
   const lenis = useLenis();
+  const pathname = usePathname();
 
+  // Reset to top instantly on every route change
   useEffect(() => {
     if (!lenis) return;
+    lenis.scrollTo(0, { immediate: true });
+    setTimeout(() => ScrollTrigger.refresh(), 100);
+  }, [pathname, lenis]);
 
-    // Create scrollerProxy for better ScrollTrigger integration
-    ScrollTrigger.scrollerProxy(document.body, {
-      scrollTop(value) {
-        if (arguments.length && value !== undefined) {
-          lenis.scrollTo(value, { immediate: true });
-        }
-        return lenis.scroll;
-      },
-      scrollLeft(value) {
-        if (arguments.length && value !== undefined) {
-          lenis.scrollTo(value, { immediate: true });
-        }
-        return lenis.scroll;
-      },
-      getBoundingClientRect() {
-        return {
-          top: 0,
-          left: 0,
-          width: window.innerWidth,
-          height: window.innerHeight,
-        };
-      },
-      pinType: document.body.style.transform ? "transform" : "fixed",
-    });
-
-    // Ensure scrollbar is visible and working
-    document.body.style.overflow = "auto";
-
-    // Update ScrollTrigger when Lenis scrolls
+  // Sync GSAP ScrollTrigger with Lenis scroll position
+  useEffect(() => {
+    if (!lenis) return;
     lenis.on("scroll", ScrollTrigger.update);
-
-    // Centralized refresh handler for all animations
-    const handleRefresh = () => {
-      // Small delay to ensure all components are ready
-      setTimeout(() => {
-        ScrollTrigger.refresh();
-      }, 100);
-    };
-
-    // Handle window resize
-    const handleResize = () => {
-      handleRefresh();
-    };
-
-    // Listen for ScrollTrigger refresh events
-    ScrollTrigger.addEventListener("refresh", handleRefresh);
-    window.addEventListener("resize", handleResize);
-
     return () => {
-      window.removeEventListener("resize", handleResize);
-      ScrollTrigger.removeEventListener("refresh", handleRefresh);
-      // Revert scrollerProxy
-      ScrollTrigger.scrollerProxy(document.body, {});
-      // Reset body overflow
-      document.body.style.overflow = "";
+      lenis.off("scroll", ScrollTrigger.update);
     };
   }, [lenis]);
-  // return null for ios
+
+  // Use native scroll on iOS
   if (
     typeof window !== "undefined" &&
     /iPad|iPhone|iPod/.test(navigator.userAgent)
   ) {
     return null;
   }
+
   return <ReactLenis root />;
 }
