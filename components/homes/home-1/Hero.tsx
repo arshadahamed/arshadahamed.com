@@ -17,14 +17,14 @@ export default function Hero() {
                   autoPlay
                   loop
                   muted
-                  poster="video/1920x1080_video-03.webp"
+                  poster="video/1920x1080_video-03.mp4"
                 >
                   <source type="video/mp4" src="video/1920x1080_video-03.mp4" />
                   <source
-                    type="video/webm"
-                    src="video/1920x1080_video-03.webm"
+                    type="video/mp4"
+                    src="video/1920x1080_video-03.mp4"
                   />
-                  <source type="video/ogv" src="video/1920x1080_video-03.ogv" />
+                  <source type="video/mp4" src="video/1920x1080_video-03.mp4" />
                 </video>
                 <div className="hero-06-video__cover" />
               </div>
@@ -54,7 +54,7 @@ export default function Hero() {
                         </div>
                         <div className="col-6 col-lg-4 col-xl-2 loading__item">
                           <ul>
-                            
+
                             {/* <li>
                               <p className="t-small">Innovations</p>
                             </li>
