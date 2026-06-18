@@ -262,10 +262,10 @@
       "link": "https://egrow.lk/",
       "clientfeedBack": "",
       "images": [
-        { "id": 1, "src": "/img/projects/details/promptvault-details-image-01.jpg" },
-        { "id": 2, "src": "/img/projects/details/promptvault-details-image-02.jpg" },
-        { "id": 3, "src": "/img/projects/details/promptvault-details-image-03.jpg" },
-        { "id": 4, "src": "/img/projects/details/promptvault-details-image-04.jpg" }
+        { "id": 1, "src": "/img/projects/details/promptvault-details-image-01.png" },
+        { "id": 2, "src": "/img/projects/details/promptvault-details-image-02.png" },
+        { "id": 3, "src": "/img/projects/details/promptvault-details-image-03.png" },
+        { "id": 4, "src": "/img/projects/details/promptvault-details-image-04.png" }
       ]
     },
     {
