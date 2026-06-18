@@ -1,0 +1,30 @@
+[
+  {
+    "role": "WEB DEVELOPER (PHP/.NET)",
+    "agency": "Tech Fusions Lab",
+    "agencyUrl": "https://techfusionslab.com/",
+    "desc": "I am responsible for developing and maintaining web applications using PHP and .NET technologies.",
+    "year": "2024 - Present"
+  },
+  {
+    "role": "FREELANCER WEB DEVELOPER",
+    "agency": "Freelance",
+    "agencyUrl": "/",
+    "desc": "Stacks - VueJS , Angular , TailwindCSS",
+    "year": "2019 - Present"
+  },
+  {
+    "role": "FREELANCER GRAPHIC DESIGNER",
+    "agency": "Freelance",
+    "agencyUrl": "/",
+    "desc": "Software Expert - Adobe Photoshop , Adobe Illustrator , Adobe After Effects",
+    "year": "2019 - Present"
+  },
+  {
+    "role": "TECHNICAL SUPPORT SPECIALIST",
+    "agency": "HelloTel Lanka (Private) Limited",
+    "agencyUrl": "https://hellotel.lk/",
+    "desc": "Provided technical support and assistance to customers regarding telecom products and services.",
+    "year": "2014 - 2017"
+  }
+]
